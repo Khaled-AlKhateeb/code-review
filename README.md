@@ -13,9 +13,6 @@ List structure
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://khaled-alkhateeb.github.io/list-structure/dist/)
-
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
