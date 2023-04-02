@@ -9,7 +9,7 @@ List structure
 
 - Major languages: HTML/ CSS/ JavaScript
 - Frameworks
-- Technolohies used: Linters/ webpack
+- Technologies used: Linters/ webpack
 
 ## Live Demo (if available)
 
